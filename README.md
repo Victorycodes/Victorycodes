@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Victorycodes
-👀 I’m interested in Web development and design
-🌱 I’m a frontend developer working with js 
-💞️ I’m looking to 
-📫 How to reach me victoryejimofor@gmail.com or call on +2349014827950
+👀 I’m a Web development
+🌱 I’m a full-stack developer working with js, react, PHP, tailwind, laravel
+📫 How to reach me victoryejimofor05@gmail.com or call on +2349014827950
 
 
 <!---
