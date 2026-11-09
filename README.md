@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Victorycodes
-👀 I’m a Web development
+👀 I’m a Web developer
 🌱 I’m a full-stack developer working with js, react, PHP, tailwind, laravel
 📫 How to reach me victoryejimofor05@gmail.com or call on +2349014827950
 
